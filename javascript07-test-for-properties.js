@@ -1,3 +1,6 @@
+// test an object for properties and return value
+// of those properties
+
 var myObj = {
   gift: "pony",
   pet: "kitten",
