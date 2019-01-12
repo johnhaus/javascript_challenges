@@ -14,7 +14,7 @@ var myStorage = {
 
 var gloveBoxContents = myStorage.car.inside["glove box"];
 
-
+console.log(gloveBoxContents);
 // and access from array of objects
 
 var myPlants = [
@@ -35,7 +35,5 @@ var myPlants = [
     ]
   }
 ];
-
-// Only change code below this line
 
 var secondTree = myPlants[1].list[1];
