@@ -7,7 +7,7 @@ var magic = function() {
 };
 
 // shorter way to write above function
-const magic = () => new Date()
+const magic2 = () => new Date()
 
 
 // arrow function with parameters
